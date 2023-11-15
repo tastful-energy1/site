@@ -1,3 +1,13 @@
 body {
     background-color: blue;
 }
+
+body a:link {
+    color :black;
+    background-color: transparent;
+}
+
+body a:visited {
+    color :black;
+    background-color: transparent;
+}
